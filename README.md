@@ -24,8 +24,12 @@ The repositories for our services, can also be found here:
 - [https://github.com/f2js/resource-provisioning](https://github.com/f2js/resource-provisioning)
 - [https://github.com/f2js/KafkaSetup](https://github.com/f2js/KafkaSetup)
 
-Below, is a domain diagram of the system:
+## Domain diagram 
 ![Domain model](domain.png)
 
-And here is a diagram of the entire system;
+## System diagram 
 ![System diagram](system.png)
+
+As we can see the entire system has been designed using **domain driven design** - which is why the structure of our system appears to be very close to the domain diagram exploring the business domain. 
+
+**Domain-driven design (DDD)** is a software design approach that aims to create a common language between business stakeholders and technical team members by using a shared understanding of the business domain to inform the design of the software. It helps to improve communication and alignment between the business and technical aspects of an organization, and can lead to increased focus, flexibility, and quality in software development.
