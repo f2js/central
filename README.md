@@ -1,12 +1,11 @@
 # Central Repository for software delevopment exam 2022
-<pre>
 ### Group members: 
 
 Name Josef Marc Pedersen Github [@josefmarcc ](https://github.com/josefmarcc) Email cph-jp325@cphbusiness.dk 
 Name Frederik Dinsen Github[@fdinsen](https://github.com/fdinsen) Email cph-fd77@cphbusiness.dk &nbsp;
 Name Sebastian Bentley Github [@sebastianbentley ](https://github.com/SebastianBentley) Email cph-sb287@cphbusiness.dk
 Name Frederik Dahl Github [@dahlfrederik ](https://github.com/dahlfrederik) Email cph-fd76@cphbusiness.dk 
-</pre>
+
 ## All repositories:
 We have made a GitHub orginization for all repositories: [https://github.com/f2js](https://github.com/f2js)
 
@@ -26,3 +25,7 @@ The repositories for our services, can also be found here:
 - [https://github.com/f2js/KafkaSetup](https://github.com/f2js/KafkaSetup)
 
 Below, is a domain diagram of the system:
+![Domain model](domain.png)
+
+And here is a diagram of the entire system;
+![System diagram](system.png)
